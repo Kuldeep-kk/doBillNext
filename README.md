@@ -10,3 +10,13 @@ This project is an Advanced Billing Management System built using Java, Swing, a
 - **Customizable Settings**: Customize shop details that appear on the bills, such as name, address, and contact information.
 - **Bill Printing and Saving**: Generate bills that can be directly printed or saved as PDF files for easy record-keeping.
 
+## Screenshots
+
+![Alt text](media/Screenshot%202024-04-30%20132221.png "Login")
+![Alt text](media/screenshot2.png "Title")
+
+## Videos
+
+### Feature Demo
+[![Watch the video](media/screenshot_of_video.png)](media/demo_video.mp4)
+
