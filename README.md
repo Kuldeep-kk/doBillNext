@@ -12,8 +12,8 @@ This project is an Advanced Billing Management System built using Java, Swing, a
 
 ## Screenshots
 
-![Alt text](media/Screenshot%202024-04-30%20132221.png "Login")
-![Alt text](media/screenshot2.png "Title")
+![Alt text](media/Screenshot%202024-04-30%20132456.png "Login")
+![Alt text](media/Screenshot%202024-04-30%20132514.png "Title")
 
 ## Videos
 
